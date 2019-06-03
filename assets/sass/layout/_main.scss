@@ -1,0 +1,21 @@
+.main {
+  background-color: $jelly-bean;
+  padding: 8rem 13rem;
+}
+
+.main__title {
+  font-family: $raleway;
+  font-weight: $extra-light;
+  font-size: $xx-large;
+  color: $white;
+  text-align: center;
+}
+
+.main__subtitle {
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $xx-large;
+  color:$white;
+  text-align: center;
+  margin-top: -1rem;
+}

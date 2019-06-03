@@ -1,0 +1,37 @@
+.contacto {
+  background-color: $pastel-pink;
+  font-family: $raleway;
+  font-weight: $regular;
+  font-size: $x-large;
+  color: $white;
+  text-align: center;
+  padding-top: 7rem;
+
+}
+.contacto__title {
+  font-family: $raleway;
+  font-weight: $extra-light;
+  font-size: $x-large;
+  color: $snow;
+  text-align: center;
+  padding-top: 2rem;
+  margin-bottom: 2rem;
+
+}
+
+.contacto__span {
+  text-align: center;
+
+}
+
+.contacto__span-button {
+  font-family: $raleway;
+  background-color: $white;
+  color: $granite-gray;
+  text-align: center;
+  width: 400px;
+  height:60px;
+  margin-top: -8rem;
+  margin-top: -4rem;
+  border-radius: 50px;
+}

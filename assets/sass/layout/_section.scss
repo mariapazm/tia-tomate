@@ -1,0 +1,29 @@
+.section {
+  background-color: $taupe-gray;
+  padding: 8rem 13rem;
+  text-align: center;
+}
+
+.section__div {
+  margin-top: -3rem;
+}
+
+.section__title {
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $large;
+  color: $white;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.section__paragraph {
+  font-family: $raleway;
+  font-weight: $regular;
+  font-size: $medium;
+  color: $white;
+  text-align: left;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
